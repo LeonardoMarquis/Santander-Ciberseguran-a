@@ -1,0 +1,2 @@
+para usar, abra o terminal, rode o encryper, e veja os arquivos que aparecem, e 
+e desfaça rodando o decrypter, tudo pelo terminal
